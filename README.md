@@ -9,4 +9,3 @@ I am building [Mo Skool](https://moskool.com) with [@moskool](https://github.com
 - Code with Mo <a href="https://www.youtube.com/channel/UCWAPvsUtwlnbbHdxk_CX2yg?view_as=subscriber">YouTube</a> 🍿
 - Connect with me on <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 💼
 
-[![Code with Mo](https://img.youtube.com/vi/Aqu0iD2ctiQ/0.jpg)](https://www.youtube.com/watch?v=Aqu0iD2ctiQ)
