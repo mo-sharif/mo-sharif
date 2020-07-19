@@ -2,7 +2,7 @@
 
 I work at [Degreed](http://degreed.com/) as a front-end developer during the day, and At night I build software to help others learn new tech. 
 
-I am building [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool) to help new developers learn React Js quickly and effectively. 
+I am building [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool) to help new developers learn React Js and Front-end tech quickly and effectively. 
 
 
 ## Find me online 🌎
