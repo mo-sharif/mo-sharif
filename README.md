@@ -1,11 +1,13 @@
 # Hi, I'm Mo 👋
 
-I work at [Degreed](http://degreed.com/) as a front-end developer during the day, and At night I build software to help others learn new tech. 
+I work as a front-end developer at an awesome edtech company called [Degreed](http://degreed.com/).
 
-I am building [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool) to help new developers learn React and Front-end tech quickly and effectively. 
+
+In my free time, I work as JAMstack developer on [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool); creating a fun and FREE approach to learning React & Front-end Development.
 
 
 ## Find me online 🌎
+- Chat with me on <a href="https://mo-skool.slack.com/archives/C01BD7GDS4F">Slack</a> 💬
 - Code with Mo <a href="https://www.youtube.com/channel/UCWAPvsUtwlnbbHdxk_CX2yg?view_as=subscriber">YouTube</a> 🍿
 - Connect with me on <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 💼
 
