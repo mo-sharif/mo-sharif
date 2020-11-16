@@ -3,7 +3,8 @@
 I work as a front-end developer at an awesome edtech company called [Degreed](http://degreed.com/).
 
 
-In my free time, I work as JAMstack developer on [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool); creating a fun and FREE approach to learning React & Front-end Development.
+I am also working on [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool)to modernize and simplify schools (skoolz) and course delivery using  top tech and UI/UX patterns 🚀
+
 
 
 ## Find me online 🌎
