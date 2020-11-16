@@ -13,3 +13,9 @@ I am also working on [Mo Skool](https://moskool.com) with [@moskool](https://git
 - Watch my coding videos on <a href="https://www.youtube.com/channel/UCWAPvsUtwlnbbHdxk_CX2yg?view_as=subscriber">YouTube</a> 🍿
 - Connect with me on <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 💼
 
+
+## Find me on the streets 🛹
+
+![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/5ESjFT1jRBTbZWbFW9paWM/7b218597d30178eead95ab38aabc4a56/moskating.gif)
+
+
