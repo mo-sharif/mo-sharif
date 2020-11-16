@@ -16,10 +16,4 @@ I am also working on [Mo Skool](https://moskool.com) with [@moskool](https://git
 
 ## Find me on the streets 🛹
 
-<div style="display: inline-block;">
-  ![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/5ESjFT1jRBTbZWbFW9paWM/73b4ee354f84878d647cacbd5d0c25d5/moskating.gif)
-</div>
-<div style="display: inline-block;">
-![Mo Skating 2](https://images.ctfassets.net/d9vefg82sy0n/2tWjGLAH7ChUATGfPFKfND/3366b387f1399b0da8174160d709127b/moskating2.gif)
-</div>
-
+![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/5ESjFT1jRBTbZWbFW9paWM/73b4ee354f84878d647cacbd5d0c25d5/moskating.gif)
