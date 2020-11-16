@@ -3,7 +3,7 @@
 I work as a front-end developer at an awesome edtech company called [Degreed](http://degreed.com/).
 
 
-I am also working on [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool)to modernize and simplify schools (skoolz) and course delivery using  top tech and UI/UX patterns 🚀
+I am also working on [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool) to modernize and simplify schools (skoolz) and course delivery using  top tech and UI/UX patterns 🚀
 
 
 
