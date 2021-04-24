@@ -3,7 +3,7 @@
 I work as a front-end tech lead at an awesome edtech company called [Degreed](http://degreed.com/).
 
 
-I am also working on [Mo Skool](https://moskool.com) with [@moskool](https://github.com/moskool) for devs to learn React and other tech skills 🚀
+I am also working on [Mo Skool](https://codelit.io) with [@moskool](https://github.com/moskool) for devs to learn React and other tech skills 🚀
 
 
 
