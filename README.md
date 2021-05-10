@@ -14,6 +14,7 @@ I am also developing [Codelit](https://codelit.io) with [@codelit](https://githu
 - Connect with me on <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 💼
 
 
-## Find me on the streets 🛹
+## What I do for fun 🛹 🥋
 
 ![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/5ESjFT1jRBTbZWbFW9paWM/73b4ee354f84878d647cacbd5d0c25d5/moskating.gif)
+<img src="https://images.ctfassets.net/d9vefg82sy0n/3N6xhOacEbPb46RV2hms2m/62aa1acc30c263effe1838d43347846f/IMG_9225.jpg" width="424px" />
