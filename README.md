@@ -18,11 +18,27 @@ Checkout my free React courses at <a href="https://codelit.io">Codelit</a> 🚀
 </p>
 
 <p>
-  <img src="https://images.ctfassets.net/d9vefg82sy0n/2edlU5SsnOEDACLJaR5z40/53b73eb447e92c7b178dee957ff39462/Programming-Memes-Programmer-while-sleeping.jpeg" width="704"/>
-  <img src="https://images.ctfassets.net/d9vefg82sy0n/3gWQ4bWVNS2EiqOw9iQPNL/c1e12bfa91ed6bc0099c580c78afcda1/iwrong-database-selected-memes-72310500b53bd781-bb89705469b127d4.jpeg" width="704" />
-  <img src="https://images.ctfassets.net/d9vefg82sy0n/44O56rAEwVzSOcY2AWG2bt/edaac86998357dd379265a1e81b6d45d/IMG_9381.JPG" width="704"/>
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/7sqExDwYojiOqaMszZAdCr/7e1adc070123664f00f3d9c41a23d4f3/merging_pr.png" width="704"/>
 </p>
 
+<p>
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/2edlU5SsnOEDACLJaR5z40/53b73eb447e92c7b178dee957ff39462/Programming-Memes-Programmer-while-sleeping.jpeg" width="704"/>
+</p>
 
+<p>
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/3gWQ4bWVNS2EiqOw9iQPNL/c1e12bfa91ed6bc0099c580c78afcda1/iwrong-database-selected-memes-72310500b53bd781-bb89705469b127d4.jpeg" width="704" />
+</p>
+
+<p>
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/4vDOHgFBT1dzNwIG55Oqm4/3fc1214ff5ea262349ae7f5f97d2454a/leaves-company.jpeg" width="704" />
+</p>
+
+<p>
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/3GwImwWM8Qes2c2sqjpwin/7a0966144212d5d56db24e7298b6b79c/Microsoft-Access.jpeg" width="704" />
+</p>
+
+<p>
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/44O56rAEwVzSOcY2AWG2bt/edaac86998357dd379265a1e81b6d45d/IMG_9381.JPG" width="704"/>
+</p>
 
 
