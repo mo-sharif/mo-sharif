@@ -17,4 +17,4 @@ I am also developing [Codelit](https://codelit.io) with [@codelit](https://githu
 ## What I do for fun 🛹 🥋
 
 ![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/5ESjFT1jRBTbZWbFW9paWM/73b4ee354f84878d647cacbd5d0c25d5/moskating.gif)
-<img src="https://images.ctfassets.net/d9vefg82sy0n/3N6xhOacEbPb46RV2hms2m/62aa1acc30c263effe1838d43347846f/IMG_9225.jpg" width="424px" />
+![Mo Kicking](https://images.ctfassets.net/d9vefg82sy0n/6tmBbPrOxSRDNvzjYb2GNh/be21cb8387f6dcc2aac07ded8e8710fb/tornado_kick.gif)
