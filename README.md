@@ -12,6 +12,6 @@ Checkout my free React courses at <a href="https://codelit.io">Codelit</a> 🚀
 - <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 👨‍💻
 
 ## What I do for fun 🛹 🥋
-
+![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/2edlU5SsnOEDACLJaR5z40/53b73eb447e92c7b178dee957ff39462/Programming-Memes-Programmer-while-sleeping.jpeg)
 ![Mo Skating](https://images.ctfassets.net/d9vefg82sy0n/5ESjFT1jRBTbZWbFW9paWM/73b4ee354f84878d647cacbd5d0c25d5/moskating.gif)
 ![Mo Kicking](https://images.ctfassets.net/d9vefg82sy0n/6tmBbPrOxSRDNvzjYb2GNh/9cdd2f4e4ca92cb5254873eb32a69ba7/tornado_kick.gif)
