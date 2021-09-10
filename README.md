@@ -7,8 +7,8 @@ I work as an engineering manager at an awesome edtech company called [Degreed](h
 - <a href="https://join.slack.com/t/codelit-io/shared_invite/zt-q69j11dg-7~fspv6CmG4Gof6esXpI4A">Slack</a> 💬
 - <a href="https://open.spotify.com/show/05zMrubk08T85mfEn0DIx6">Spotify</a> 🎙
 - <a href="https://www.youtube.com/channel/UCWAPvsUtwlnbbHdxk_CX2yg?view_as=subscriber">YouTube</a> 🍿
-- <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 💼
-
+- <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 👨‍💻
+- <a href="https://codelit.io">React & dev courses</a> 🚀
 
 ## What I do for fun 🛹 🥋
 
