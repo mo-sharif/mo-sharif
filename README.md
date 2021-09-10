@@ -1,10 +1,6 @@
 # Hi, I'm Mo 👋
 
-I work as a front-end tech lead at an awesome edtech company called [Degreed](http://degreed.com/).
-
-
-I am also developing [Codelit](https://codelit.io) with [@codelit](https://github.com/codelit-io) for devs to teach & learn React and other tech skills 🚀
-
+I work as an engineering manager at an awesome edtech company called [Degreed](http://degreed.com/).
 
 
 ## Connect with me 🌎
