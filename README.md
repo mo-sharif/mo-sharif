@@ -2,13 +2,14 @@
 
 I work as an engineering manager at an awesome edtech company called [Degreed](http://degreed.com/).
 
+Checkout my free React courses at <a href="https://codelit.io">Codelit</a> 🚀
+
 
 ## Connect with me 🌎
 - <a href="https://join.slack.com/t/codelit-io/shared_invite/zt-q69j11dg-7~fspv6CmG4Gof6esXpI4A">Slack</a> 💬
 - <a href="https://open.spotify.com/show/05zMrubk08T85mfEn0DIx6">Spotify</a> 🎙
 - <a href="https://www.youtube.com/channel/UCWAPvsUtwlnbbHdxk_CX2yg?view_as=subscriber">YouTube</a> 🍿
 - <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 👨‍💻
-- <a href="https://codelit.io">Codelit - Free Dev Courses</a> 🚀
 
 ## What I do for fun 🛹 🥋
 
