@@ -1,8 +1,8 @@
 # Hi, I'm Mo 👋
 
-I work as an engineering manager at an awesome edtech company called [Degreed](http://degreed.com/).
+Engineering manager at an awesome edtech company called [Degreed](http://degreed.com/).
 
-Checkout my free React courses at <a href="https://codelit.io">Codelit</a> 🚀
+Checkout my React code challenges at <a href="https://codelit.io">Codelit</a> 🚀
 
 
 ## Connect with me 🌎
