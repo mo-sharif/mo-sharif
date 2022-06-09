@@ -1,6 +1,6 @@
-# Hi, I'm Mo 👋
+## Bonjour ☀️
 
-Engineering manager at an awesome edtech company called [Degreed](http://degreed.com/).
+Engineering manager, coder and dad to 11 pets 🐰🐱🐶🐔🐭
 
 Checkout my React code challenges at <a href="https://codelit.io">Codelit</a> 🚀
 
