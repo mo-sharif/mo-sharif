@@ -4,12 +4,7 @@ Engineering manager, coder and dad to 11 pets 🐰🐱🐶🐔🐭
 
 Checkout my React code challenges at <a href="https://codelit.io">Codelit</a> 🚀
 
-
-## Connect with me 🌎
-- <a href="https://join.slack.com/t/codelit-io/shared_invite/zt-q69j11dg-7~fspv6CmG4Gof6esXpI4A">Slack</a> 💬
-- <a href="https://open.spotify.com/show/05zMrubk08T85mfEn0DIx6">Spotify</a> 🎙
-- <a href="https://www.youtube.com/channel/UCWAPvsUtwlnbbHdxk_CX2yg?view_as=subscriber">YouTube</a> 🍿
-- <a href="https://www.linkedin.com/in/mo-sharif/">LinkedIn</a> 👨‍💻
+  <img src="https://images.ctfassets.net/d9vefg82sy0n/7tSd3SRbdcUdtlZsNckWhu/a7723d9842009775ff82eb307b6127b0/merging_pr.png" alt="Mo Skating" width="auto" height="600"/>
 
 ## What I do for fun 🛹 🥋 📈
 <p>
