@@ -1,6 +1,6 @@
 ## Hello ☀️
 
-Engineering manager, coder and dad to 11 pets 🐰🐱🐶🐔🐭
+Engineering manager, coder and dad to 9 pets 🐰🐱🐶🐔
 
 Checkout my React code challenges at <a href="https://codelit.io">Codelit</a> 🚀
 
