@@ -1,8 +1,9 @@
-## Hello ☀️
+## GM ☀️
 
-Engineering manager, coder and dad to 9 pets 🐰🐱🐶🐔
+Engineering manager, coder and founder at Codelit 🤖💻🔍
 
 Checkout my tech and coding courses at <a href="https://codelit.io">Codelit</a> 🚀
+
 
   <img src="https://images.ctfassets.net/d9vefg82sy0n/7tSd3SRbdcUdtlZsNckWhu/a7723d9842009775ff82eb307b6127b0/merging_pr.png" alt="Mo Skating" width="auto" height="600"/>
 
