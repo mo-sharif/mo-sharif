@@ -1,6 +1,6 @@
 ## GM ☀️
 
-Engineering manager, coder and founder at <a href="https://codelit.io">Codelit</a> 🤖💻🔍
+Engineering manager, coder and founder at <a href="https://codelit.io">Codelit</a> 🤖
 
 Checkout my tech and coding courses at <a href="https://codelit.io">Codelit</a> 🚀
 
