@@ -2,7 +2,7 @@
 
 Engineering manager, coder and founder at <a href="https://codelit.io">Codelit</a> 🤖
 
-Checkout my latest short course <a href="https://codelit.io/courses/exploring-6-essential-javascript-object-static-methods-y0naq">Exploring 6 Essential JavaScript Object Static Methods</a> 🚀
+Checkout my latest short course <a href="https://codelit.io/codelit/exploring-6-essential-javascript-object-static-methods-y0naq">Exploring 6 Essential JavaScript Object Static Methods</a> 🚀
 
 
   <img src="https://images.ctfassets.net/d9vefg82sy0n/7tSd3SRbdcUdtlZsNckWhu/a7723d9842009775ff82eb307b6127b0/merging_pr.png" alt="Mo Skating" width="auto" height="600"/>
