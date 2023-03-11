@@ -2,7 +2,9 @@
 
 Engineering manager, coder and founder at <a href="https://codelit.io">Codelit</a> 🤖
 
-Checkout my latest short course <a href="https://codelit.io/codelit/exploring-6-essential-javascript-object-static-methods-y0naq">Exploring 6 Essential JavaScript Object Static Methods</a> 🚀
+Codelit is a free ChatGPT powered online platform for learning, writing code, and testing your skills. Join our community today and start coding like a boss! 🚀💻 
+
+Checkout my latest short interactive course and get certified! <a href="https://codelit.io/codelit/unleash-the-power-of-javascript-s-top-15-array-methods-cztzr/">Unleash the Power of JavaScript's Top 15 Array Methods</a> 🚀
 
 
   <img src="https://images.ctfassets.net/d9vefg82sy0n/7tSd3SRbdcUdtlZsNckWhu/a7723d9842009775ff82eb307b6127b0/merging_pr.png" alt="Mo Skating" width="auto" height="600"/>
