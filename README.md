@@ -7,7 +7,7 @@ Codelit is a free ChatGPT powered online platform for learning, writing code, an
 Checkout my latest short interactive course and get certified! <a href="https://codelit.io/codelit/unleash-the-power-of-javascript-s-top-15-array-methods-cztzr/">Unleash the Power of JavaScript's Top 15 Array Methods</a> 🚀
 
   <img src="https://images.ctfassets.net/d9vefg82sy0n/IalYTMuPfyezZWJYwcb0A/34c918cc08cc183c9dfb751427bb6a3b/mock-backgroundcodelit-ai.png" alt="Mo Skating" width="auto" height="600"/>
-  <img src="https://images.ctfassets.net/d9vefg82sy0n/7tSd3SRbdcUdtlZsNckWhu/a7723d9842009775ff82eb307b6127b0/merging_pr.png" alt="Mo Skating" width="auto" height="600"/>
+
 
 ## What I do for fun 🛹 🥋 📈
 <p>
