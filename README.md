@@ -2,7 +2,9 @@
 
 Hey there! 
 
-✨ I'm the founder of Code Boost, where we're creating the first tap-to-learn mini-game on Telegram!
+✨ Sr. Front-end engineer at FuturHealth 🚀
+
+✨ I'm the founder of Code Boost, where we're creating the first Code to Earn mini-game on Telegram!
 
 - [x] Check it out on Telegram: <a href="https://t.me/code_boost_bot">Code Boost Bot</a> 🚀 
 
