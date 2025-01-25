@@ -1,6 +1,4 @@
-## GM ☀️
-
-Gaba goo! 
+## GN 🌙
 
 ✨ Sr. Front-end engineer at FuturHealth 🚀
 
