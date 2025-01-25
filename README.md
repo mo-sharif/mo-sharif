@@ -11,5 +11,4 @@
 - [x] you don't have to see it but it's here: <a href="https://codelit.io">Codelit.io</a> 🧑‍💻 
 
 
-Thanks for stopping by!
-
+🤠 🏴‍☠️
