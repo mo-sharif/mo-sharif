@@ -1,8 +1,8 @@
 ## GN 🌙
 
-✨ Sr. Front-end engineer at FuturHealth 🚀
+✨ Sir Front-ends alot at FuturHealth 🚀
 
-✨ Founder of Code Boost, where we're creating the first Code to Earn mini-game on Telegram!
+✨ Founder of Code Boost, super cool React based tetris mini-game, built on TON blockchain and telegram
 
 - [x] play with it on Telegram: <a href="https://t.me/code_boost_bot">Code Boost Bot</a> 🚀 
 
