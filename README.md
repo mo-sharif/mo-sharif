@@ -1,4 +1,4 @@
-## GN 🌙
+## 🐾 🐾
 
 ✨ Sir Front-ends alot at FuturHealth 🚀
 
@@ -6,4 +6,6 @@
 
 ✨ I also founded Codelit, a platform for React-based interactive code challenges.
 
-🤠 🏴‍☠️
+✨  ...
+
+🐾 🐾
