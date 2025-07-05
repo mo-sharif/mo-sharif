@@ -1,16 +1,16 @@
 ## 🐾 🐾
 
-❓ Why did the coder recite, "The Tao that can be told is not the everlasting Tao"?
+❓ Why did Dumbledore refuse to use version control?
 
-⚡️ Because their code was so buggy, it crashed before reaching the eternal flow! 😆
+⚡️ Because he preferred to keep all his branches in the Whomping Willow!
 
 --- 
 
 ✨ Sir Front-ends alot at FuturHealth 🚀
 
-✨ Founder of Code Boost, super cool React based tetris mini-game, built on TON blockchain and telegram
+✨ Ex founder of Code Boost, super cool React based tetris mini-game, built on TON blockchain and telegram
 
 ✨ I also founded Codelit, a platform for React-based interactive code challenges.
 
-✨  the code that can be told is not the ever lasting code!
+✨ the code that can be told is not the ever lasting code!
 
