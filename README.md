@@ -12,5 +12,5 @@
 
 ✨ I also founded Codelit, a platform for React-based interactive code challenges.
 
-✨ the code that can be told is not the ever lasting code!
+✨ The code that can be told is not the ever lasting code!
 
