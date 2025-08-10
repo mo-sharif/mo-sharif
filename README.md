@@ -8,6 +8,6 @@
 
 ✨ Engineering Manager at FuturHealth 🚀
 
-✨ Built [ViralVault](viralvault.tech), [CodeBoost](https://t.me/code_boost_bot) and [Codelit](codelit.io)
+✨ Built [ViralVault](https://viralvault.tech), [CodeBoost](https://t.me/code_boost_bot) and [Codelit](https://codelit.io)
 
 
