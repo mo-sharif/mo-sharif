@@ -6,11 +6,8 @@
 
 --- 
 
-✨ Sir Front-ends alot at FuturHealth 🚀
+✨ Engineering Manager at FuturHealth 🚀
 
-✨ Ex founder of Code Boost, super cool React based tetris mini-game, built on TON blockchain and telegram
+✨ Built [ViralVault](viralvault.tech), [CodeBoost](https://t.me/code_boost_bot) and [Codelit](codelit.io)
 
-✨ I also founded Codelit, a platform for React-based interactive code challenges.
-
-✨ The code that can be told is not the ever lasting code!
 
