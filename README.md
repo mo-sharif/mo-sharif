@@ -1,5 +1,7 @@
 💻 Lead SWE at [FuturHealth](https://fh.co/)
 
-🤖 Founder of [Codelit](https://Codelit.io) — Autonomous AI Workflows
+🤖 Founder of [Codelit](https://Codelit.io): Autonomous AI Workflows
 
-🌅 Founder of [Ember Coast Travel](https://embercoasttravel.com/) — Travel Agency
+🛡️ Founder of [DateSafe](https://getdatesafe.app/): Safe Date App
+
+🌅 Founder of [Ember Coast Travel](https://embercoasttravel.com/): Travel Agency
