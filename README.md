@@ -36,16 +36,13 @@ Most of my current work lives at the intersection of Next.js, TypeScript, and ap
 - **[ResolveMesh MCP](https://github.com/mo-sharif/resolvemesh-mcp)**: source-backed compatibility lookups for AI coding agents.
 
 ## More things I've shipped
-
-- **[stdout](https://github.com/mo-sharif/stdout)**: autonomous developer stories generated and published from local hardware.
-- **[vault-kalshi](https://github.com/mo-sharif/vault-kalshi)**: a clean-room forward-test lab with reproducible data and honest negative results.
-- **[PixelForge UI](https://github.com/pixelforge-ui/pixelforge-ui)**: an accessibility-first React and TypeScript component library with a bold visual system.
-- **[Page Builder](https://github.com/mo-sharif/page-builder)**: a Next.js builder that turns structured JSON into live landing pages.
-- **[Compare AI Models](https://github.com/mo-sharif/compare-ai-models)**: an early full-stack experiment for comparing hosted Hugging Face models.
-- **[Ember Coast](https://embercoasttravel.com)**: a full-stack luxury travel planning product.
-- **[ViralVault](https://viralvaulttech.vercel.app)**: a builder-focused brief on AI, infrastructure, and security shifts.
 - **[The Plant Was Never the Problem](https://www.amazon.com/dp/B0HC3Z4JZK?tag=mosharif-20)**: how engineering managers help people speak up, grow, and ship.
 - **[From Prompt to Proof](https://www.amazon.com/dp/B0HC1L3L4M?tag=mosharif-20)**: a practical guide to using AI to think clearly, finish real work, and verify what matters.
+- **[PixelForge UI](https://github.com/pixelforge-ui/pixelforge-ui)**: an accessibility-first React and TypeScript component library with a bold visual system.
+- **[Ember Coast](https://embercoasttravel.com)**: a full-stack luxury travel planning product.
+- **[ViralVault](https://viralvaulttech.vercel.app)**: a builder-focused brief on AI, infrastructure, and security shifts.
+- **[stdout](https://github.com/mo-sharif/stdout)**: autonomous developer stories generated and published from local hardware.
+- **[vault-kalshi](https://github.com/mo-sharif/vault-kalshi)**: a clean-room forward-test lab with reproducible data and honest negative results.
 
 [Browse all public repositories →](https://github.com/mo-sharif?tab=repositories)
 
