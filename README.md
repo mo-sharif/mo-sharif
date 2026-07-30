@@ -44,7 +44,8 @@ Most of my current work lives at the intersection of Next.js, TypeScript, and ap
 - **[Compare AI Models](https://github.com/mo-sharif/compare-ai-models)**: an early full-stack experiment for comparing hosted Hugging Face models.
 - **[Ember Coast](https://embercoasttravel.com)**: a full-stack luxury travel planning product.
 - **[ViralVault](https://viralvaulttech.vercel.app)**: a builder-focused brief on AI, infrastructure, and security shifts.
-- **[From Code to Culture](https://books.google.com/books/about/From_Code_to_Culture.html?id=H8SL0QEACAAJ)**: my book on the human side of engineering leadership.
+- **[The Plant Was Never the Problem](https://www.amazon.com/dp/B0HC3Z4JZK?tag=mosharif-20)**: how engineering managers help people speak up, grow, and ship.
+- **[From Prompt to Proof](https://www.amazon.com/dp/B0HC1L3L4M?tag=mosharif-20)**: a practical guide to using AI to think clearly, finish real work, and verify what matters.
 
 [Browse all public repositories →](https://github.com/mo-sharif?tab=repositories)
 
