@@ -1,5 +1,5 @@
 <a href="https://mosharif.me">
-  <img src="./assets/profile-banner.svg" alt="Mo Sharif. Big ideas. Working software. Full-stack Next.js, applied AI, and a human point of view." width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Mo Sharif. Big ideas. Working software. Featuring Codelit, DateSafe, ResolveMesh, AbleMakers, and ChirpCue." width="100%" />
 </a>
 
 <p align="center">
